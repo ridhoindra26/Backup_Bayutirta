@@ -1,0 +1,44 @@
+{
+    "0": {
+        "author_name": "Mosa Elsada",
+        "rating": 5,
+        "text": "Service HP paling trusted 100%, no debat",
+        "created_at": 1689077520
+    },
+    "1": {
+        "author_name": "Bude tima",
+        "rating": 5,
+        "text": "Ok",
+        "created_at": 1679398875
+    },
+    "2": {
+        "author_name": "Bambang Prahayadi",
+        "rating": 5,
+        "text": "Good place",
+        "created_at": 1530840042
+    },
+    "3": {
+        "author_name": "Erva Mahiroh",
+        "rating": 5,
+        "text": "Ok",
+        "created_at": 1584937371
+    },
+    "4": {
+        "author_name": "Nur Hanikmah",
+        "rating": 5,
+        "text": "Good,, fast,, cheap, the servicer has a cute face hahaha",
+        "created_at": 1699696360
+    },
+    "5": {
+        "author_name": "ridho indra",
+        "rating": 4,
+        "text": "sangat cepat",
+        "created_at": "2023-12-20T14:14:20.000000Z"
+    },
+    "6": {
+        "author_name": "Kriswiyanto",
+        "rating": 5,
+        "text": "sudah bagus",
+        "created_at": "2023-12-20T14:14:40.000000Z"
+    }
+}
