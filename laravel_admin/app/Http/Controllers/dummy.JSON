@@ -1,0 +1,549 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "110",
+                "short_name": "110",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Jalan Raya Pakisaji",
+                "short_name": "Jl. Raya Pakisaji",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Jatirejo",
+                "short_name": "Jatirejo",
+                "types": [
+                    "administrative_area_level_5",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Pakisaji",
+                "short_name": "Pakisaji",
+                "types": [
+                    "administrative_area_level_4",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kecamatan Pakisaji",
+                "short_name": "Kec. Pakisaji",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kabupaten Malang",
+                "short_name": "Kabupaten Malang",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Jawa Timur",
+                "short_name": "Jawa Timur",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Indonesia",
+                "short_name": "ID",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "65162",
+                "short_name": "65162",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Jl. Raya Pakisaji No.110</span>, <span class=\"extended-address\">Jatirejo, Pakisaji, Kec. Pakisaji</span>, <span class=\"locality\">Kabupaten Malang</span>, <span class=\"region\">Jawa Timur</span> <span class=\"postal-code\">65162</span>, <span class=\"country-name\">Indonesia</span>",
+        "business_status": "OPERATIONAL",
+        "curbside_pickup": true,
+        "current_opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "close": {
+                        "date": "2023-12-11",
+                        "day": 1,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "date": "2023-12-11",
+                        "day": 1,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-11",
+                        "day": 1,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "date": "2023-12-11",
+                        "day": 1,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-12",
+                        "day": 2,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "date": "2023-12-12",
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-12",
+                        "day": 2,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "date": "2023-12-12",
+                        "day": 2,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-13",
+                        "day": 3,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "date": "2023-12-13",
+                        "day": 3,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-13",
+                        "day": 3,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "date": "2023-12-13",
+                        "day": 3,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-07",
+                        "day": 4,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "date": "2023-12-07",
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-07",
+                        "day": 4,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "date": "2023-12-07",
+                        "day": 4,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-08",
+                        "day": 5,
+                        "time": "1045"
+                    },
+                    "open": {
+                        "date": "2023-12-08",
+                        "day": 5,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-08",
+                        "day": 5,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "date": "2023-12-08",
+                        "day": 5,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-09",
+                        "day": 6,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "date": "2023-12-09",
+                        "day": 6,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-09",
+                        "day": 6,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "date": "2023-12-09",
+                        "day": 6,
+                        "time": "1600"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Tuesday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Wednesday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Thursday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Friday: 8:00 – 10:45 AM, 4:00 – 9:15 PM",
+                "Saturday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "delivery": true,
+        "formatted_address": "Jl. Raya Pakisaji No.110, Jatirejo, Pakisaji, Kec. Pakisaji, Kabupaten Malang, Jawa Timur 65162, Indonesia",
+        "formatted_phone_number": "0851-7328-5660",
+        "geometry": {
+            "location": {
+                "lat": -8.064906300000001,
+                "lng": 112.5991109
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -8.063564519708498,
+                    "lng": 112.6004755302915
+                },
+                "southwest": {
+                    "lat": -8.066262480291503,
+                    "lng": 112.5977775697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+62 851-7328-5660",
+        "name": "BAYU TIRTA CELL | Service HP | Jual Beli HP",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1045"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1300"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2115"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1600"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Tuesday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Wednesday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Thursday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Friday: 8:00 – 10:45 AM, 4:00 – 9:15 PM",
+                "Saturday: 8:00 AM – 1:00 PM, 4:00 – 9:15 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103777711354679745050\">Ariiez Po</a>"
+                ],
+                "photo_reference": "AWU5eFgAEfTYeyH6ILqAOGOaIQGQh8w1t55Xs0kjqQ5EhPMOBOqGazamVdIbS0P-F1ijPMjYqeZjA8KlfTPaB6JirVaKA1-FLW6w25S6CoyOZKIjSnMBJTqRD_Zl2oSrM9TVrYM2zb0w7xD-Jn_8dRv7S9o-LDXs0ILD_XdzrjyhjYTi1QeA",
+                "width": 1080
+            },
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766469063529736789\">BAYU TIRTA CELL | Service HP | Jual Beli HP</a>"
+                ],
+                "photo_reference": "AWU5eFjJjp130MsYsFv8V-k3NSzmDHBy6hboAWZc2sL5jn9xdVG0sVYuI4PD4jwb9KqQ2a7UkH3g134OkMB5J5vGeMr3v99O_mB8olrrWAWsOIteWpIbrhAuF-TrcomXRgrpBws_GvK7o2KFDIOQIgeHhsvhnhVFSEdN1RsfMEIi-wZ3vEIA",
+                "width": 1800
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766469063529736789\">BAYU TIRTA CELL | Service HP | Jual Beli HP</a>"
+                ],
+                "photo_reference": "AWU5eFhRQCYmu2ZHrrsW6abKMRiuy3pTs1hKSN_gNGK4BxDi9fCJRfN2mlm6A1XLAVhR-8EwWUAgmTGO174ZjBiCw28KZzcwOg-FlKkjNyD54y-ZjVu5ZePznf9Tl-e13wDbPObbx53eHvEr8ofkbTo3r3Lxpc6GagSIL7aRviojNuQQEngH",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766469063529736789\">BAYU TIRTA CELL | Service HP | Jual Beli HP</a>"
+                ],
+                "photo_reference": "AWU5eFgs_6PIKCOGSkY-uBjaLk62aCXgtIYaU8vuRvx1wFUD03aDjKBTLAPuMj6siqd0YJwii8Wy6dIq9DXl2SYKj3aK42fYfQG59anyKjgxkra15BRy0WhL2BPioal4ky1-plee49ANRNij89hpYH-nFnIRITqU8jXGK59Rf71HyhMVjlOb",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766469063529736789\">BAYU TIRTA CELL | Service HP | Jual Beli HP</a>"
+                ],
+                "photo_reference": "AWU5eFgA1F9xuQQxIEZudFPHzWmeIK-gAmtTFL_KiWBqP66QOzzPGXBUZ8n8gUkXAxLpxlGodrTfdi8hOMlNjM_2IU4LO8HvYEvBSkMm0Z5KlIn6EczM4luBoX8OZRZi4pUgyRdSBvZdmV01b3FiZte03QqEgaOABVIHpk-6myam-s_872pi",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766469063529736789\">BAYU TIRTA CELL | Service HP | Jual Beli HP</a>"
+                ],
+                "photo_reference": "AWU5eFjPx4hoj961zGt67JqjHDZq5MfLoAahC2JPy1icCGupGZuFQ7gfUKd2kv1peiNg9mDKbtcW_na1kA7Ynkr5-84VXi5Jd5mZZ5427OF6v3SA2tgpZUM1AB_ogwkpvHxA9yl6Rq5HD2dqxyhWJzPqUD2CBaDAHaLUq0_cLpI16BA5xcZW",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766469063529736789\">BAYU TIRTA CELL | Service HP | Jual Beli HP</a>"
+                ],
+                "photo_reference": "AWU5eFirje-wIAiCpmd5_6VMPt1wE1px_Mq40iZjiuphZhHmerVnctbA21vZ-9XIGPoFWhsZ1S7xF4df7Blsny05zJNjXJGH10hAHyNUexaoJBua8EoV_NQczXuxTR0BdyZjBHkn78HDzI_sISSKKvE85Om0pKV76R_RWt7RQWAdXdmNvHP7",
+                "width": 3024
+            },
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113886741940907325853\">Yuda Prameswara Ramadhani</a>"
+                ],
+                "photo_reference": "AWU5eFj7wcm-XFuKipu-RVZ4J7QjkWdry98ZKVUy2HXmvCn1Vxyo1ojWfxAeeYOANBNlv63uUxZRbRdsQyx56bT21ocuU0HPSQDWQ2pI7dHrB54KcT0q2eXGmJLuboo6ZvpgyFRBmFTW7ERbX4OboMQlxG2S_gTFgaCK-W2zSA6WhHykcOx1",
+                "width": 4160
+            },
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113886741940907325853\">Yuda Prameswara Ramadhani</a>"
+                ],
+                "photo_reference": "AWU5eFhzagIsSOapefYLt-gTLtPtuFrCIw03dGfKmlFLmPfopzvXRDWtI-0pnqqPdXkJmNPNrA8282Wr-jw_2u94I2Eov24sURdysOej1xvJ1JjPzOmnk9rhboLtzzESpp_WFZ3CyhaavMZtHycwXK87e212JXv6irXK5sHkay7Pwbz9y66F",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ-4NA1pSdeC4R5ik3KRItaq8",
+        "plus_code": {
+            "compound_code": "WHPX+2J Pakisaji, Malang Regency, East Java, Indonesia",
+            "global_code": "6P3JWHPX+2J"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ-4NA1pSdeC4R5ik3KRItaq8",
+        "reviews": [
+            {
+                "author_name": "Mosa Elsada",
+                "author_url": "https://www.google.com/maps/contrib/105439231798655265956/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU46BSt01oLw8TKaAEJT4SM_Xc_HrDjXIHc29B1ElV6Vmc=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "4 months ago",
+                "text": "Service HP paling trusted 100%, no debat",
+                "time": 1689077520,
+                "translated": false
+            },
+            {
+                "author_name": "Bude tima",
+                "author_url": "https://www.google.com/maps/contrib/109085391562790056580/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJv4JlAtqhEvlZQy-mZeKRTEjvCq_sKrOnxAuDf8w8f=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "8 months ago",
+                "text": "Ok",
+                "time": 1679398875,
+                "translated": false
+            },
+            {
+                "author_name": "Bambang Prahayadi",
+                "author_url": "https://www.google.com/maps/contrib/116261113261018590560/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIixPeVlA91qFqC2OdYrtHixASdVYR1rW37xACW19bt=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "5 years ago",
+                "text": "Good place",
+                "time": 1530840042,
+                "translated": false
+            },
+            {
+                "author_name": "Erva Mahiroh",
+                "author_url": "https://www.google.com/maps/contrib/102317913350537002216/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2B84kA_UbJcoi_UHaN48kJG_9NsdYBqS0078x4_Xv=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "3 years ago",
+                "text": "Ok",
+                "time": 1584937371,
+                "translated": false
+            },
+            {
+                "author_name": "Nur Hanikmah",
+                "author_url": "https://www.google.com/maps/contrib/101100136826864559977/reviews",
+                "language": "en-US",
+                "original_language": "id",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY_r8HnDTJzUJbD3wNrUAc88YA-3n0_z44m5mrk-_H=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "3 weeks ago",
+                "text": "Good,, fast,, cheap, the servicer has a cute face hahaha",
+                "time": 1699696360,
+                "translated": true
+            }
+        ],
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=12639964860192860646",
+        "user_ratings_total": 206,
+        "utc_offset": 420,
+        "vicinity": "Jalan Raya Pakisaji No.110, Pakisaji",
+        "website": "http://bayutirtahandphone.my.id/"
+    },
+    "status": "OK"
+}

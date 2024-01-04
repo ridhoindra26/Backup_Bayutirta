@@ -1,0 +1,9 @@
+.card-list-ulasan {
+    max-width: 1250px;
+    margin-right: 32px;
+    margin-bottom: 40px;
+    padding: 40px 32px;
+    gap: 24px;
+    border-radius: 12px;
+    background: #FFF;
+}
